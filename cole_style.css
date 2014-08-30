@@ -1,0 +1,162 @@
+h1{
+    color:black;
+    font-family:Calibri;
+}
+
+#header{
+    height:100px;
+    width:100%;
+    /*background-color: #0DC2EF;*/
+}
+#header h1{
+    font-size:44px;
+    text-align:center;
+    padding: 30px;
+}
+
+#table{
+    float:left;
+    margin-left:120px;
+    padding:20px;
+}
+
+td a img{
+    width:150px;
+    height:150px;
+}
+
+#homeimg{
+    float:right;
+    width:45%;
+    height:45%;
+    padding: 10px;
+    margin-right:330px;
+}
+
+sidebar{
+    float:left;
+}
+.box{
+    height:100%;
+    width:250px;
+    /*background-color:#1234FF;*/
+    margin:10px;
+}
+.box h2{
+    font-size:18px;
+    font-family:Calibri;
+    margin:10px 0px 0px 30px;
+}
+ul{
+    font-size:15px;
+    font-family:Calibri;
+    list-style-type:none;
+    padding:0px;
+    margin:8px 8px 8px 30px;
+}
+p{
+    font-size:15px;
+    font-family:Calibri;
+    list-style-type:none;
+    padding:0px;
+    margin:8px 8px 8px 30px;
+}
+a{
+    text-decoration:none;
+    color:black;
+}
+a:hover{
+    color:grey;
+}
+#navbar{
+    border: 1px solid grey;
+    border-left:none;
+    border-right:none;
+    margin: 25px 40px 0px 40px;
+}
+#navlinks{
+    text-align:center;   
+}
+#navlinks li{
+    display:inline;
+    padding:0px 25px 0px 25px;
+    margin: 0px;
+}
+#footer{
+    float:left;
+    font-size: 13px;
+    font-family:cursive;
+    padding-bottom: 30px;
+	position: relative;
+	bottom: auto;
+    border: 1px solid grey;
+    border-left:none;
+    border-right:none;
+    border-bottom:none;
+    margin-left:580px;
+    margin-right:500px;
+    text-align:center;
+}
+
+
+/*#footer a{
+    border-top: 1px solid black;   
+}*/
+
+span{
+    font-weight:bold;
+}
+
+#right {
+	float: right;
+	width: 620px;
+    padding 10px;
+    margin-bottom: 10px;
+	background: #eee;
+	text-align: justify;
+}
+#right h2{
+    font-family:Calibri;
+    margin:20px;
+}
+#right p{
+    margin-right:25px;
+    margin-left:20px;
+}
+#about {
+	float: right;
+	width: 76%;
+    padding 10px;
+    margin-bottom: 10px;
+    margin-right: 40px;
+	background: #eee;
+	text-align: justify;
+}
+#about h2{
+    font-family:Calibri;
+    margin:20px;
+}
+#about p{
+    margin-right:25px;
+    margin-left:20px;
+
+}
+    
+#selfie{
+    float:right;
+    margin-right:40px;
+    padding-bottom:5px;
+    padding-top:5px;
+    background: #eee;
+}
+
+#selfie img{
+    width:73.25%;
+    margin:10px 10px 10px 10px;
+}
+
+#content {
+    font-family:Calibri;
+    font-size:15px
+    padding: 15px;
+	background: #fff;
